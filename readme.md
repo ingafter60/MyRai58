@@ -79,5 +79,15 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Section 2: Preparing application
 
-- #2.1. Preparing application: λ composer create-project laravel/laravel McLaraEcom58 "5.8.*"
-- #2.2. Preparing application: AppServiceProvider, create db, create user authentication, register a new user
+2. Preparing application
+..* Steps
+1. Installing Laravel
+2. Modified app structure
+
+: λ composer create-project laravel/laravel McLaraEcom58 "5.8.*"
+
+- #2.0. Preparing application: λ composer create-project laravel/laravel McLaraEcom58 "5.8.*"
+
+- #2.0. Preparing application: λ composer create-project laravel/laravel McLaraEcom58 "5.8.*"
+- #2.1. Preparing application: Moved index.html and .htaccess to root and adjusting the paths
+- #2.3. Preparing application: Modified some files, create db, create user authentication, register a new user
